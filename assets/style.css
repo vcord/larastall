@@ -1,0 +1,19 @@
+body{
+	padding-top:60px;
+}
+
+.app-panel .panel-heading,
+.app-panel .panel-footer{
+	background-color:#fff !important;
+	border-bottom:1px solid #ddd;
+	padding:15px;
+	
+}
+
+.app-panel .panel-footer{
+	overflow:hidden;
+}
+
+.app-panel .panel-heading{
+	font-size:1.7em;
+}

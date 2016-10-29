@@ -1,0 +1,21 @@
+{
+    "name": "vcord/larastall",
+    "description": "A laravel installer package that creates a wordpress-like installation page for your application.",
+    "license": "MIIT",
+    "authors": [
+        {
+            "name": "vcord michael ukandu",
+            "email": "vcordukandu@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/filesystem": "^3.1"
+    },
+	
+	"autoload": {
+		"psr-4": {
+		 "Vcord\\Larastall\\": "src/"
+		}
+	  }
+	
+}
