@@ -14,8 +14,8 @@ Larastall is a flexible Laravel 5 installer Package for a fresh or existing Lara
 + Gets Mail settings with a form
 
 ## Installation
-to install it run:
-composer require vcord/larastall
+to install it run:<br>
+`composer require vcord/larastall`
 
 The next required step is to add the service provider to `config/app.php` <br>
 `Vcord\Larastal\LarastallServiceprovider::class,`
