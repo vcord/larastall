@@ -18,7 +18,7 @@ to install it run:<br>
 `composer require vcord/larastall`
 
 The next required step is to add the service provider to `config/app.php` <br>
-`Vcord\Larastal\LarastallServiceprovider::class,`
+`Vcord\Larastall\LarastallServiceprovider::class,`
 
 ## Publish
 The last required step is to publish views, configuration and assets in your applicatio with:<br>
