@@ -1,6 +1,6 @@
 {
     "name": "vcord/larastall",
-    "description": "A laravel installer package that creates a wordpress-like installation page for your application.",
+    "description": "Larastall is a flexible Laravel 5 installer I initially built for my self and later on felt it might be useful for someone out there. This a further extension of bestmomo\/laravel-installer.",
     "license": "MIIT",
     "authors": [
         {
