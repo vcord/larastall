@@ -1,5 +1,5 @@
 # Larastall
-Larastall is a flexible Laravel 5 installer I initially built for my self and later on felt it might be useful for someone out there. This a further extension of bestmomo\laravel-installer.
+Larastall is a flexible Laravel 5 installer Package for a fresh or existing Laravel 5 application. Some functionalities were borrowed from [bestmomo\laravel-installer](https://github.com/bestmomo/laravel-installer) and further modified.
 
 ## Preview
 ![vcord-larastall](https://dl.dropboxusercontent.com/s/lgkrk1ov3o9qbx6/localhost-8000-install-database-config.png?dl=0  "vcord/larastall")
