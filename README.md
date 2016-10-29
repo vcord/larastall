@@ -25,7 +25,7 @@ The last required step is to publish views, configuration and assets in your app
 `php artisan vendor:publish`
 
 #### N.B 
-if you've set the 'publish_users_table' configuration option to true, you would need to re-run the above command to publish the 'users' migration file. Please [See Configuration](https://github.com/vcord/larastall/README.md#configuration)
+if you've set the 'publish_users_table' configuration option to true, you would need to re-run the above command to publish the 'users' migration file. Please [See Configuration](https://github.com/vcord/larastall/master/README.md#configuration)
 
 # Configuration
 Configuration is in config/larastall.php: 
